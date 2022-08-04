@@ -1,0 +1,25 @@
+.s button{
+    background-color: white;
+    border-color: aqua;
+    height: 30px;
+    width: 100px;
+    font-size: 20px;
+    border-radius: 20px;
+}
+.plus button{
+    background-color: aqua;
+    height: 30px;
+    width: 30px;
+    font-size: 20px;
+    border-radius: 50%;
+    color: white;
+}
+.account button{
+    background-color: rgb(57, 126, 243);
+    height: 40px;
+    width: 170px;
+    font-size: 20px;
+    color: white;
+    border-radius: 20px;
+    box-shadow: 10px 5px 5px black;
+}
