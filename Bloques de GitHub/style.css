@@ -1,0 +1,28 @@
+.container{
+    background-color: aquamarine;
+    position: absolute;
+}
+.box1{
+    height: 200px;
+    width: 1800px;
+    background-color: rgb(136, 226, 238);
+    display: inline-block;
+    padding: 20px;
+    margin: 35px;
+}
+.box2{
+    height: 200px;
+    width: 1800px;
+    background-color: rgb(177, 238, 136);
+    display: inline-block;
+    padding: 20px;
+    margin: 35px;
+}
+.box3{
+    height: 200px;
+    width: 1800px;
+    background-color: rgb(136, 226, 238);
+    display: inline-block;
+    padding: 20px;
+    margin: 35px;
+}
